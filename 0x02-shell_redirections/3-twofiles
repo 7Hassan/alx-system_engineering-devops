@@ -1,0 +1,2 @@
+#!/bin/bash
+cat $home/../etc/passwd $home/../etc/hosts
